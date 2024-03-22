@@ -39,7 +39,7 @@ label {
   margin: auto;
   background-color: #778899;
 }
-#convert-btn {
+button{
   background-color: #778899;
   border: none;
   color: black;
