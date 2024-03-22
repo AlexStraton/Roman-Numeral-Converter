@@ -41,3 +41,9 @@ button.addEventListener("click", function () {
     toRoman(input.value);
   }
 });
+
+reset.addEventListener("click", function () {
+  input.value = "";
+  output.textContent = "Enter a Number:";
+});
+
